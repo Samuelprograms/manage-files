@@ -115,7 +115,7 @@ def delete_path(data):
 
 root = Tk()
 
-root.title("CLEARBOT")
+root.title("ClearBot")
 root.resizable(0,0)
 WIDTH = 500
 HEIGHT = 500
